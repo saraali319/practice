@@ -3,7 +3,9 @@ class HomeScreen extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
- return Scaffold();
+ return Scaffold(
+   backgroundColor:  Colors.yellow,
+ );
   }
 
 }
